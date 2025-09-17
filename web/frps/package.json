@@ -11,7 +11,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "@types/humanize-plus": "^1.8.0",
+    "@types/humanize-plus": "^1.8.2",
     "echarts": "^5.4.3",
     "element-plus": "^2.5.3",
     "humanize-plus": "^1.8.2",
